@@ -1,0 +1,107 @@
+/* ---------------------- General------------------- */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+/* ----------------------- Barra de navegación------------------- */
+.navbar{
+    padding-left: 2.5rem !important;
+    padding-right: 2.5rem !important;
+}
+
+
+
+.Color_de_fondo{
+    background-color: greenyellow;    
+}
+
+
+.Logo_Imagen{
+    width: 7rem;
+}
+
+
+.Textos_de_barra_navegacion_Home{
+    color: white !important;
+    font-size: 1.2rem !important;
+    opacity: 1 !important;
+    font-weight: 300 !important;
+    background-color: #3e3d3d !important;
+    border-radius: 5px !important;
+    margin: 0.1rem !important;
+    
+}
+.Textos_de_barra_navegacion_Features{
+    color: white !important;
+    font-size: 1.2rem !important;
+    opacity: 1 !important;
+    font-weight: 300 !important;
+    background-color: #3e3d3d !important;
+    border-radius: 5px !important;
+    margin: 0.1rem !important;
+}
+
+.Textos_de_barra_navegacion_Pricing{
+    color: white !important;
+    font-size: 1.2rem !important;
+    opacity: 1 !important;
+    font-weight: 500 !important;
+    background-color: #3e3d3d !important;
+    border-radius: 5px !important;
+    margin: 0.1rem !important;
+}
+
+.Textos_de_barra_navegacion{
+    color: rgb(51, 51, 51) !important;
+    font-size: 2rem !important;
+    opacity: 0.8 !important;
+    padding-top: 6px !important;
+    font-weight: 1000 !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+/* ----------------------- INDEX------------------ */
+/* ----------------------- INDEX------------------ */
+
+/* ----------------------- Sección header------------------- */
+
+#Hero-Section {
+  background-image: url("../img/20220220_171506.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 50%;
+}
+
+
+.Textos_de_barra_navegacion_hero_section_a{
+    color: greenyellow !important;
+    -webkit-text-stroke: 1px black;
+    
+}
+
+.Textos_de_barra_navegacion_hero_section_b{
+    color: black!important;
+    -webkit-text-stroke: 1px greenyellow;
+    font-size: 2.5rem !important;    
+}
+
+
+/* ----------------------- Sección Info------------------- */
+.CARD1{
+    min-height: 12rem!important;
+}
+
+
+/* ----------------------- PORTAFOLIO------------------ */
+/* ----------------------- PORTAFOLIO------------------ */
+
+/* ----------------------- Sección Proyectos------------------- */
+
+ .CARD2 img{ 
+    height: 13rem!important;
+ }
+ 
+
